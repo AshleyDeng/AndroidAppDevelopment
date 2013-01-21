@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\ddeng\Desktop\Research\KillTime\Android Development\.metadata\.plugins\org.eclipse.jdt.core
+3298051449.index
+3847364455.index
+351575915.index
